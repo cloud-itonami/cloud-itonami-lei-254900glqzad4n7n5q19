@@ -1,5 +1,12 @@
-{:company/legal-name "Public Storage"
- :company/lei "254900GLQZAD4N7N5Q19"
+{:company/gleif-note "registry facts from GLEIF (https://api.gleif.org/api/v1/lei-records/254900GLQZAD4N7N5Q19), retrieved 2026-08-25 by scripts/lei-gleif-ingest.cljs (GET only)"
  :company/jurisdiction "US-MD"
- :company/website "https://www.publicstorage.com"
- :company/ticker "PSA (NYSE)"}
+ :company/legal-address "C/O CSC-LAWYERS INCORPORATING SERVICE COMPANY, 7 ST. PAUL STREET, SUITE 820, 21202, Baltimore, US-MD, US"
+ :company/legal-form-elf "HLR4"
+ :company/legal-jurisdiction "US-MD"
+ :company/legal-name "Public Storage"
+ :company/lei "254900GLQZAD4N7N5Q19"
+ :company/lei-status "ISSUED"
+ :company/postal-address "7 ST. PAUL STREET, SUITE 820, 21202, Baltimore, US-MD, US"
+ :company/registration-number "D24207953"
+ :company/ticker "PSA (NYSE)"
+ :company/website "https://www.publicstorage.com"}
